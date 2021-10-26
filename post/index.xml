@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://qyrep.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://qyrep.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discord Bot</title>
+      <link>https://qyrep.github.io/Portfolio/post/discord_bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qyrep.github.io/Portfolio/post/discord_bot/</guid>
+      <description>Discord bots can be used for practically anything from adding music, memes, or just add content to your server. My discord bot integrated a free API from CoinGecko in order to access data on cryptocurrency. It also uses the json library in order to read the data that is coming in from the API. The data can then be retrieved by the user on any coin that the API supports such as Bitcoin or Ethereum.</description>
+    </item>
+    
+    <item>
+      <title>Pathfinding Visualizer</title>
+      <link>https://qyrep.github.io/Portfolio/post/pathfinding_visualizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qyrep.github.io/Portfolio/post/pathfinding_visualizer/</guid>
+      <description>Pathfinding algorithms are essential in Artificial Intelligence for an agent to find a path to find the goal state. This pathfinding visualizer will find a path using classical searches between an initial node and a goal node, then output the path to a seperate file (so long the path exists.) Classical searches include Breadth-First Search, Depth-First Search and A*. This course project also displays a local search algorithm known as simulated annealing.</description>
+    </item>
+    
+    <item>
+      <title>Snake Game</title>
+      <link>https://qyrep.github.io/Portfolio/post/snake_game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qyrep.github.io/Portfolio/post/snake_game/</guid>
+      <description>Games have always been something that I have loved to play since I was a kid. This project is inspired by one of the games that I would play the most back then which is Snake. In order to create this game I used Object-Oriented Programming principles such as inheritance. It uses the libraries pygame and random in order to generate this game in a new window along with many other things.</description>
+    </item>
+    
+    <item>
+      <title>Sorting Visualizer</title>
+      <link>https://qyrep.github.io/Portfolio/post/sorting_visualizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qyrep.github.io/Portfolio/post/sorting_visualizer/</guid>
+      <description>Data structures taught me that sorting is something that is essesntial in any computer science related job. As the size of an array increases, it becomes increasingly harder to find something. Things simply need to be sorted in order to retrieve certain data the quickest such as by using binary search. This sorting visualizer sorts random arrays using the most common sorting algorithms out there. It uses the tkinter library in order to display the sorting in a chart visualization rather than just returning the array in the terminal sorted.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>https://qyrep.github.io/Portfolio/post/web_scraping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qyrep.github.io/Portfolio/post/web_scraping/</guid>
+      <description>Web scraping is process of getting, or extracting, information from a given website. It can be used for many things including marketing, data analysis, or just research. My project focused on using web scraping to search through the HTML data of any search result within newegg.com. For example, let&amp;rsquo;s say that the user searches for GPU&amp;rsquo;s, more specifically a 3080. The program will find the amount of pages within that search result, find the number of items that have that keyword, and print them out based on lowest to highest price.</description>
+    </item>
+    
+  </channel>
+</rss>
